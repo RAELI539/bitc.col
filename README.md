@@ -1,3 +1,3 @@
 <html lang="en">
-</html>bitc_col>
-</BBIT C>
+</html>bitc_col
+</html>BBIT C
